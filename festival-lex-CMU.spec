@@ -2,8 +2,8 @@ Summary:	American English Lexicon
 Summary(pl):	Leksyka amerykañskiej odmiany jêzyka angielskiego
 Name:		festival-lex-CMU
 Version:	0.4
-Release:	1
-License:	Distributable
+Release:	2
+License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festlex_CMU.tar.gz
 Requires:	festival-lex-POS
