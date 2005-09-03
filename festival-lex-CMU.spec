@@ -21,7 +21,7 @@ Ten pakiet zawiera leksykê amerykañskiej odmiany jêzyka angielskiego
 i zasady konwersji liter na d¼wiêki bazowane na CMUDICT 0.4.
 
 %prep
-%setup -q -c %{name}-%{version}
+%setup -q -c
 
 %build
 
