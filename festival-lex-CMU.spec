@@ -1,5 +1,5 @@
 Summary:	American English Lexicon
-Summary(pl.UTF-8):   Leksyka amerykańskiej odmiany języka angielskiego
+Summary(pl.UTF-8):	Leksyka amerykańskiej odmiany języka angielskiego
 Name:		festival-lex-CMU
 Version:	0.4
 Release:	3
