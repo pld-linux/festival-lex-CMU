@@ -1,5 +1,5 @@
 Summary:	American English Lexicon
-Summary(pl):	Leksyka amerykañskiej odmiany jêzyka angielskiego
+Summary(pl.UTF-8):   Leksyka amerykaÅ„skiej odmiany jÄ™zyka angielskiego
 Name:		festival-lex-CMU
 Version:	0.4
 Release:	3
@@ -16,9 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package contains an American English Lexicon and letter to sound
 rules based on CMUDICT 0.4.
 
-%description -l pl
-Ten pakiet zawiera leksykê amerykañskiej odmiany jêzyka angielskiego
-i zasady konwersji liter na d¼wiêki bazowane na CMUDICT 0.4.
+%description -l pl.UTF-8
+Ten pakiet zawiera leksykÄ™ amerykaÅ„skiej odmiany jÄ™zyka angielskiego
+i zasady konwersji liter na dÅºwiÄ™ki bazowane na CMUDICT 0.4.
 
 %prep
 %setup -q -c
