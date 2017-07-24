@@ -8,6 +8,7 @@ License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/downloads/festival/2.4/festlex_CMU.tar.gz
 # Source0-md5:	6a2ee4fed7c3ebedf197a3b8524ccb87
+URL:		http://www.cstr.ed.ac.uk/projects/festival/
 Requires:	festival-lex-POS
 Provides:	festival-lex-english
 BuildArch:	noarch
